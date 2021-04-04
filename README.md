@@ -13,6 +13,6 @@ São necessários para este projeto:
 
 O código faz a captura das temperaturas enviadas pelo sensor, verifica a diferença com a temperatura desejada(setpoint), e envia informações para os relés ligando e desligando as resistências conforme  valores indicados nos controladores **P,I e D**.
 
-Ele envia duas informações pela porta serial, a temperatura e se foi notado algo pelo sensor de presença, o tratamento desses dados é realizado pelo backend na linguagem node.js, o código para esse arquivo está no link: [Backend](https://www.google.com.br) 
+Ele envia duas informações pela porta serial, a temperatura e se foi notado algo pelo sensor de presença, o tratamento desses dados é realizado pelo backend na linguagem node.js, o código para esse arquivo está no link: [Backend](https://github.com/victorpgg/nodejs-mongo-serialport) 
   
   
